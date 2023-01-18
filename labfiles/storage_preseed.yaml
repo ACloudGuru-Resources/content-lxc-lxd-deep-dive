@@ -6,7 +6,6 @@ networks:
   description: ""
   name: lxdbr0
   type: ""
-  project: default
 storage_pools:
 - config:
     size: 5GiB
